@@ -2577,6 +2577,8 @@
 			margin: 0 0 0.75em 0;
 			text-align: center;
 			width: 2.35em;
+			/*background-image: url('../../images/Zach_Ernst.jpg');
+			background-size: cover;*/
 		}
 
 			#header .logo.fa-paper-plane-o:before {
